@@ -8,4 +8,4 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [https://hungry-ardinghelli-a229d4.netlify.com]()
+* Link to the website deployed on Netlify : [https://hungry-ardinghelli-a229d4.netlify.com] (copy-paste this link on your browser, do not open it from here please)
